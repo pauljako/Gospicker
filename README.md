@@ -1,5 +1,5 @@
 # Gospicker
-## A implementation of [Cospicker](https://github.com/kleefuchs/OS-Picker) in Go
+## An implementation of [Cospicker](https://github.com/kleefuchs/OS-Picker) in Go
 
 ## Why?
 I wanted to try out Go but had no idea of what I could do so I made this
